@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Registration should handle render Register page 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1
+      class="styles.title"
+    >
+      Register
+    </h1>
+    <form
+      class="form"
+    >
+      <input
+        placeholder="Name"
+        type="text"
+        value=""
+      />
+      <input
+        placeholder="Email"
+        type="email"
+        value=""
+      />
+      <input
+        placeholder="Password"
+        type="password"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Register
+      </button>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`Registration should handle render Register pages 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1
+      class="title"
+    >
+      Register
+    </h1>
+    <form
+      class="form"
+    >
+      <input
+        placeholder="Name"
+        type="text"
+        value=""
+      />
+      <input
+        placeholder="Email"
+        type="email"
+        value=""
+      />
+      <input
+        placeholder="Password"
+        type="password"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Register
+      </button>
+    </form>
+  </div>
+</div>
+`;
